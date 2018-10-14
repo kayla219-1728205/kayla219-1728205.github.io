@@ -1,11 +1,11 @@
 div1 {
-    float: right;
-    height: 100px;
-    width: 100px;
+    float: left;
+    height: 200px;
+    width: 150px;
     background-color: pink;
 }
 div2 {
-    float: left;
+    float: right;
     height: 100px;
     width: 100px;
     background-color: pink;
