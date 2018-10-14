@@ -1,13 +1,13 @@
 div1 {
     float: left;
     height: 200px;
-    width: 150px;
+    width: 500px;
     background-color: pink;
 }
 div2 {
     float: right;
-    height: 100px;
-    width: 100px;
+    height: 300px;
+    width: 300px;
     background-color: pink;
     border-radius: 15px;
 }
