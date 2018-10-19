@@ -1,3 +1,6 @@
+body{
+	background-image: url('wood.jpg');
+}
 #Header{
 	width: 500px;
 	margin-left: auto;
