@@ -11,7 +11,8 @@ body{
 	color: #FFBC00;
 	font-family: "Passion One";
 	border: solid 8px black;
-	font-size: 35px;
+    font-size: 35px;
+    padding: 15px;
 }
 
 h3{
@@ -33,11 +34,12 @@ p{
 	border: solid 8px black;
 	text-align: center;
     background-color: #8E41D5;
-    padding: 8px;
+    padding-bottom: 8px;
 }
 
 ul {
-	list-style-type: none;
+    list-style-type: none;
+    padding-left: 0px;
 }
 
 #Content {
@@ -59,6 +61,8 @@ ul {
 
 #Footer {
 	background-color: #8E41D5;
-	text-align: center;
-	border: solid 8px black;
+    border: solid 8px black;
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center; 
 }
