@@ -14,10 +14,14 @@ body{
     font-size: 35px;
     padding: 15px;
 }
-
+#Header h1{
+    font-size: 60px;
+    font-family: "Passion One";
+    color: #FFBC00;
+}
 h3{
 	color: #FFBC00;
-	font-size: 60px;
+	font-size: 40px;
 	font-family: "Passion One";
 	margin-bottom: 0px;
 }
