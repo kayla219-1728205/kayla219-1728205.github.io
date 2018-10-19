@@ -29,7 +29,7 @@ p{
 
 #LeftNav{
 	float: left;
-	width: 320px;
+	width: 400px;
 	border: solid 8px black;
 	text-align: center;
 	background-color: #8339CF;
@@ -40,10 +40,10 @@ ul {
 }
 
 #Content {
-	width: 620px;
+	width: 700px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-bottom: 10px;
+	margin-bottom: 40px;
 	border: solid 8px black;
 	text-align: center;
 	background-color: #8339CF;
